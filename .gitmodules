@@ -1,4 +1,4 @@
 [submodule "capabilities-data"]
 	path = capabilities-data
-	url = https://github.com/receipt-print-hq/escpos-printer-db.git
-	branch = master
+	url = https://github.com/qube-club/escpos-printer-db.git
+	branch = munbyn-profile
